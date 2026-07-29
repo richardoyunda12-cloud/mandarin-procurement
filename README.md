@@ -1,0 +1,1 @@
+{"name":"Mandarin Procurement","short_name":"Mandarin Proc","start_url":"./","display":"standalone","background_color":"#0a1020","theme_color":"#0a1020","lang":"id"}
